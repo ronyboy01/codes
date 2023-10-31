@@ -4,7 +4,7 @@
 #include "/usr/local/include/opencv2/objdetect.hpp"
 #include "/usr/local/include/opencv2/highgui.hpp"
 #include "/usr/local/include/opencv2/imgproc.hpp"
-#include <iostream>
+#include <iostream.h>
 
 using namespace std;
 using namespace cv;
